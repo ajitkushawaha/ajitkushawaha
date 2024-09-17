@@ -16,13 +16,20 @@
   <a href="https://www.linkedin.com/in/ajju-kushwaha77/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-handle/">
+  <a href="https://www.instagram.com/ajit.react/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
   <a href="https://Ajitkushwaha.online">
     <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Website" />
   </a>
+  <a href="https://x.com/AjitKus44029184">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
+  <a href="https://www.threads.net/@ajit.react">
+    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Threads" />
+  </a>
 </div>
+
 
 ###
 
@@ -74,13 +81,13 @@
 
 ###
 
-<h2 align="left">📌 Pinned Repositories</h2>
+<h2 align="left">📌 Pinned Live Product Link</h2>
 
 <div align="left">
-  <a href="https://github.com/ajitkushawaha/vision-guard-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajitkushawaha&repo=vision-guard-ai&theme=radical" alt="Vision Guard AI" />
+  <a href="https://buyaisolution.com">
+    BuyAiSolution
   </a>
-  <a href="https://github.com/ajitkushawaha/parking-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajitkushawaha&repo=parking-management-system&theme=radical" alt="Parking Management System" />
+  <a href="https://smartaipark.com">
+    SmartAipark
   </a>
 </div>
