@@ -4,7 +4,7 @@
 
   <ul align="left">
     <li>🌐 My corner of the internet: <a href="https://Ajitkushwaha.online">Ajitkushwaha.online</a></li>
-    <li>🎯 Currently focusing on AI-driven detection and enhancing productivity.</li>
+    <li>🎯 Currently focusing MERN Stack Technologies to expand my knowledge in backend and full-stack development..</li>
   </ul>
 </div>
 
