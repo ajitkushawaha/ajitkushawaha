@@ -30,7 +30,6 @@
   </a>
 </div>
 
-
 ###
 
 <h2 align="left">🛠️ Expertise</h2>
@@ -81,13 +80,33 @@
 
 ###
 
-<h2 align="left">📌 Pinned Live Product Link</h2>
+<h2 align="left">📌 Pinned Live Product Links</h2>
 
 <div align="left">
   <a href="https://buyaisolution.com">
     BuyAiSolution
-  </a>
+  </a> |
   <a href="https://smartaipark.com">
-    SmartAipark
+    SmartAiPark
   </a>
 </div>
+
+###
+
+### 🌱 I’m currently learning:
+- Advanced **React** techniques and state management using **Context API** and custom hooks.
+- Implementing **Google Translate API** for automatic language detection and translation in a multilingual chat application.
+- Exploring **MERN stack** technologies to expand my knowledge in backend and full-stack development.
+
+### 👯 I’m looking to collaborate on:
+- Projects involving **React**, **Node.js**, **WebSocket**, or **AI-driven web applications**.
+- Any innovative solution that can leverage **AI** for security, IoT integrations, or real-time monitoring.
+
+### 🤔 I’m looking for help with:
+- Scaling **real-time data handling** in large-scale web applications.
+- Improving my knowledge of **backend development** and **DevOps** using Docker and cloud technologies.
+
+### 💬 Ask me about:
+- **React development** and **front-end architecture**.
+- **WebSocket** integration for real-time applications.
+- **AI-based security systems** and **IoT devices**.
