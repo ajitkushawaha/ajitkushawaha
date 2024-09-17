@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
   <h1>👋 Hello! My name is Ajit Kushwaha</h1>
   <p>I'm a passionate React and AI Solutions Developer from Ahmedabad, India.</p>
 
-  <ul>
+  <ul align="left">
     <li>🌐 My corner of the internet: <a href="https://Ajitkushwaha.online">Ajitkushwaha.online</a></li>
     <li>🎯 Currently focusing on AI-driven detection and enhancing productivity.</li>
   </ul>
@@ -10,9 +10,9 @@
 
 ###
 
-<h2 align="center">🌐 Connect with me</h2>
+<h2 align="left">🌐 Connect with me</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ajju-kushwaha77/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
@@ -26,9 +26,9 @@
 
 ###
 
-<h2 align="center">🛠️ Expertise</h2>
+<h2 align="left">🛠️ Expertise</h2>
 
-<div align="center">
+<div align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" alt="JavaScript" />
   </a>
@@ -57,26 +57,26 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ajitkushawaha&show_icons=true&theme=radical" height="150" alt="Ajit's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=ajitkushawaha&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
 ###
 
-<h2 align="center">🔍 Most Used Languages</h2>
+<h2 align="left">🔍 Most Used Languages</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkushawaha&layout=compact&theme=radical" height="150" alt="Most Used Languages" />
 </div>
 
 ###
 
-<h2 align="center">📌 Pinned Repositories</h2>
+<h2 align="left">📌 Pinned Repositories</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ajitkushawaha/vision-guard-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajitkushawaha&repo=vision-guard-ai&theme=radical" alt="Vision Guard AI" />
   </a>
