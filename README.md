@@ -4,7 +4,7 @@
 
   <ul align="left">
     <li>🌐 My corner of the internet: <a href="https://Ajitkushwaha.online">Ajitkushwaha.online</a></li>
-    <li>🎯 Currently focusing MERN Stack Technologies to expand my knowledge in backend and full-stack development..</li>
+    <li>🎯 Currently focusing on MERN Stack Technologies to expand my knowledge in backend and full-stack development..</li>
   </ul>
 </div>
 
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
   <a href="https://Ajitkushwaha.online">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Website" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
   </a>
   <a href="https://x.com/AjitKus44029184">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
