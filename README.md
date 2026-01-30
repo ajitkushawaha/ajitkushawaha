@@ -4,7 +4,7 @@
 
   <ul align="left">
     <li>🚀 <strong>CTO & Co-Founder</strong> at <a href="https://codyn.in">Codyn.in</a> - Leading technical strategy and development</li>
-    <li>🌐 My corner of the internet: <a href="https://Ajitkushwaha.online">Ajitkushwaha.online</a></li>
+    <li>🌐 My corner of the internet: <a href="https://ajitreact.site">Ajitkushwaha.online</a></li>
     <li>🎯 Currently focusing on <strong>MERN Stack</strong> development and creating innovative AI-powered web applications with real-time capabilities</li>
     <li>🏗️ Building scalable full-stack solutions with React, Next.js, Node.js, and MongoDB</li>
     <li>🤖 Specialized in AI integration, WebSocket implementations, and IoT systems</li>
