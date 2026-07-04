@@ -1,14 +1,13 @@
 <div align="left">
   <h1>👋 Hello! My name is Ajit Kushwaha</h1>
-  <p>I'm a passionate Full-Stack Developer, AI Solutions Architect, and CTO/Co-Founder at <strong><a href="https://codyn.in">Codyn.in</a></strong> based in Ahmedabad, India. I specialize in modern web technologies, cutting-edge AI implementations, and building scalable tech startups.</p>
+  <p>I’m a Freelance Full Stack Developer based in Ahmedabad, India. I build production-ready SaaS products and web applications across frontend architecture, backend APIs, databases, integrations, and deployment.</p>
 
-  <ul align="left">
-    <li>🚀 <strong>CTO & Co-Founder</strong> at <a href="https://codyn.in">Codyn.in</a> - Leading technical strategy and development</li>
-    <li>🌐 My corner of the internet: <a href="https://ajitreact.site">ajitreact.site</a></li>
-    <li>🎯 Currently focusing on <strong>MERN Stack</strong> development and creating innovative AI-powered web applications with real-time capabilities</li>
-    <li>🏗️ Building scalable full-stack solutions with React, Next.js, Node.js, and MongoDB</li>
-    <li>🤖 Specialized in AI integration, WebSocket implementations, and IoT systems</li>
-    <li>💼 Leading technical teams and architecting enterprise-level solutions</li>
+  <ul>
+    <li>💻 Building full-stack products using React, Next.js, Node.js, TypeScript, and modern databases</li>
+    <li>🚀 Creator of <a href="https://kwicklingo.com">KwickLingo</a> and <a href="https://managemy.cafe">ManageMyCafe</a></li>
+    <li>🌐 Portfolio: <a href="https://ajitreact.site">ajitreact.site</a></li>
+    <li>🎯 Focused on SaaS engineering, API architecture, AI integrations, and real-time applications</li>
+    <li>📍 Ahmedabad, India · Open to Full Stack Developer and Product Engineer opportunities</li>
   </ul>
 </div>
 
@@ -17,20 +16,17 @@
 <h2 align="left">🌐 Connect with me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ajju-kushwaha77/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ajitreact/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/ajit.react/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+  <a href="https://ajitreact.site">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=FF6B35&logoColor=white&style=for-the-badge" height="25" alt="Portfolio" />
   </a>
-  <a href="https://Ajitkushwaha.online">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
+  <a href="mailto:ajit.kushwaha.work@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" alt="Email" />
   </a>
-  <a href="https://x.com/AjitKus44029184">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
-  </a>
-  <a href="https://www.threads.net/@ajit.react">
-    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Threads" />
+  <a href="https://github.com/ajitkushawaha">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
   </a>
 </div>
 
@@ -40,100 +36,87 @@
 
 <div align="left">
   <h3>Frontend Technologies</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" alt="TypeScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="25" alt="Next.js" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25" alt="React Native" />
-  </a>
-  <a href="https://reactrouter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25" alt="React Router" />
-  </a>
-  <a href="https://redux-toolkit.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="25" alt="Redux Toolkit" />
-  </a>
-  <a href="https://recoiljs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" height="25" alt="Recoil" />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="25" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25" alt="React Native" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="25" alt="Redux Toolkit" />
 </div>
 
 <div align="left">
   <h3>Backend & Database</h3>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25" alt="Express.js" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" alt="MySQL" />
-  </a>
-  <a href="https://jwt.io/" target="_blank">
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="25" alt="JWT" />
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="25" alt="JWT" />
 </div>
 
 <div align="left">
   <h3>Styling & UI</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="CSS3" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" alt="Tailwind CSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25" alt="Bootstrap" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25" alt="Sass" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="25" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="25" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma" />
 </div>
 
 <div align="left">
-  <h3>Real-time & AI Technologies</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
-    <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white" height="25" alt="WebSocket" />
-  </a>
-  <a href="https://socket.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="25" alt="Socket.io" />
-  </a>
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25" alt="OpenAI" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker" />
-  </a>
+  <h3>Real-time, AI & Delivery</h3>
+  <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socketdotio&logoColor=white" height="25" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="25" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker" />
 </div>
 
+###
+
+<h2 align="left">🚀 Owned SaaS Products</h2>
+
 <div align="left">
-  <h3>APIs & Tools</h3>
-  <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" height="25" alt="REST API" />
-  </a>
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25" alt="GraphQL" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub" />
-  </a>
+  <h3><a href="https://kwicklingo.com">KwickLingo</a></h3>
+  <p>An independently built AI-support SaaS product taken from product strategy and architecture through production deployment.</p>
+  <ul>
+    <li><strong>Role:</strong> Creator · Full Stack Product Engineer</li>
+    <li><strong>Focus:</strong> Conversational workflows, AI integration, APIs, data, and deployment</li>
+    <li><a href="https://ajitreact.site/projects/kwicklingo">Read engineering case study</a></li>
+  </ul>
+
+  <h3><a href="https://managemy.cafe">ManageMyCafe</a></h3>
+  <p>An independently built restaurant SaaS product for digital QR menus and online ordering.</p>
+  <ul>
+    <li><strong>Role:</strong> Creator · Full Stack Product Engineer</li>
+    <li><strong>Stack:</strong> React, Node.js, Express, and MongoDB</li>
+    <li><a href="https://ajitreact.site/projects/managemycafe">Read engineering case study</a></li>
+  </ul>
+</div>
+
+###
+
+<h2 align="left">💼 Professional Experience</h2>
+
+<div align="left">
+  <h3>Freelance Full Stack Developer</h3>
+  <p><code>Nov 2024 — Present</code></p>
+  <ul>
+    <li>Building and shipping production SaaS applications</li>
+    <li>Designing APIs, authentication flows, data models, and third-party integrations</li>
+    <li>Handling deployments, production debugging, and ongoing product improvements</li>
+  </ul>
+
+  <h3>Full Stack Developer · ConceptServe Technologies</h3>
+  <p><code>Sep 2023 — Sep 2024</code></p>
+  <ul>
+    <li>Built production web and mobile workflows using React, React Native, Node.js, and REST APIs</li>
+    <li>Integrated authentication, application state, backend services, and third-party APIs</li>
+    <li>Collaborated across design, QA, engineering, testing, and production releases</li>
+    <li>Contributed to a <a href="https://ajitreact.site/projects/parking-management">Parking Management System</a></li>
+  </ul>
 </div>
 
 ###
@@ -145,23 +128,13 @@
   <img src="https://github-readme-streak-stats.demolab.com?user=ajitkushawaha&theme=radical&hide_border=false" height="180" alt="GitHub Streak" />
 </div>
 
-<h3 align="left">🏆 GitHub Trophy</h3>
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajitkushawaha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-###
-
-<h2 align="left">🔍 Most Used Languages</h2>
+<h3 align="left">Most Used Languages</h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkushawaha&layout=compact&theme=radical&hide_border=false" height="180" alt="Most Used Languages" />
 </div>
 
-###
-
-<h2 align="left">📈 Contribution Graph</h2>
+<h3 align="left">Contribution Graph</h3>
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitkushawaha&theme=radical&hide_border=false" alt="Activity Graph" />
@@ -169,41 +142,14 @@
 
 ###
 
-<h2 align="left">📌 Live Projects & Companies</h2>
-
-<div align="left">
-  <h3>🚀 Current Company</h3>
-  <ul>
-    <li>
-      <strong><a href="https://codyn.in">Codyn.in</a></strong> - Leading as CTO & Co-Founder, building innovative tech solutions and enterprise applications
-    </li>
-  </ul>
-  
-  <h3>AI-Powered Solutions</h3>
-  <ul>
-    <li>
-      <strong><a href="https://buyaisolution.com">BuyAiSolution</a></strong> - AI-powered e-commerce platform with intelligent product recommendations
-    </li>
-    <li>
-      <strong><a href="https://smartaipark.com">SmartAiPark</a></strong> - Smart parking solutions with AI-driven optimization
-    </li>
-    <li>
-      <strong><a href="https://growingwing.net">GrowingWing</a></strong> - Digital marketing and creative development agency portfolio
-    </li>
-  </ul>
-</div>
-
-###
-
-<h2 align="left">🌱 What I'm Currently Learning</h2>
+<h2 align="left">🌱 What I’m Currently Learning</h2>
 
 <ul>
-  <li>Advanced <strong>Next.js 15</strong> features including Server Components, App Router, and optimized rendering</li>
-  <li>Deep diving into <strong>AI integration</strong> with OpenAI, LangChain, and custom AI model implementations</li>
-  <li>Exploring <strong>real-time applications</strong> using WebSocket, Socket.io, and Server-Sent Events</li>
-  <li>Implementing <strong>Google Translate API</strong> for multilingual chat applications with automatic language detection</li>
-  <li>Scaling <strong>MERN stack</strong> applications with advanced optimization and performance techniques</li>
-  <li>Building <strong>microservices</strong> architecture with Docker and containerization</li>
+  <li>Advanced Next.js App Router, Server Components, and rendering strategies</li>
+  <li>AI integrations, retrieval-based workflows, and response evaluation</li>
+  <li>Real-time applications using WebSocket, Socket.IO, and Server-Sent Events</li>
+  <li>Database modelling, indexing, and API performance optimization</li>
+  <li>Containerized deployments and reliable production workflows</li>
 </ul>
 
 ###
@@ -211,23 +157,10 @@
 <h2 align="left">👯 Looking to Collaborate On</h2>
 
 <ul>
-  <li>Projects involving <strong>React, Next.js, Node.js, and real-time WebSocket</strong> implementations</li>
-  <li><strong>AI-driven web applications</strong> with intelligent features and automation</li>
-  <li>Innovative solutions leveraging <strong>AI for security</strong> and <strong>IoT integrations</strong></li>
-  <li>Real-time monitoring systems and <strong>data visualization</strong> dashboards</li>
-  <li><strong>Full-stack MERN applications</strong> with modern architecture and best practices</li>
-</ul>
-
-###
-
-<h2 align="left">🤔 Looking for Help With</h2>
-
-<ul>
-  <li>Scaling <strong>real-time data handling</strong> in large-scale web applications with millions of concurrent users</li>
-  <li>Advanced <strong>backend architecture</strong> patterns and database optimization techniques</li>
-  <li><strong>DevOps automation</strong> with Docker, Kubernetes, and CI/CD pipelines</li>
-  <li>Implementing <strong>distributed systems</strong> and microservices architecture</li>
-  <li>Advanced <strong>machine learning</strong> integration in production applications</li>
+  <li>Production SaaS products using React, Next.js, Node.js, and TypeScript</li>
+  <li>AI-assisted business workflows and customer-facing applications</li>
+  <li>Real-time dashboards, communication tools, and operational systems</li>
+  <li>API integrations and full-stack product improvements</li>
 </ul>
 
 ###
@@ -235,36 +168,18 @@
 <h2 align="left">💬 Ask me about</h2>
 
 <ul>
-  <li><strong>React development</strong> with modern hooks, Context API, and state management patterns</li>
-  <li><strong>Next.js 15</strong> App Router, Server Components, and optimized performance strategies</li>
-  <li><strong>Full-stack development</strong> with MERN stack and TypeScript</li>
-  <li><strong>WebSocket integration</strong> for real-time communication and live data updates</li>
-  <li><strong>AI-based solutions</strong> including OpenAI integration, language models, and intelligent automation</li>
-  <li><strong>IoT systems</strong> and real-time monitoring applications</li>
-  <li><strong>RESTful APIs</strong> and <strong>GraphQL</strong> implementation and best practices</li>
-  <li>Responsive design with <strong>Tailwind CSS</strong> and modern UI/UX principles</li>
+  <li>Production React and Next.js application architecture</li>
+  <li>Full-stack development with Node.js, Express, MongoDB, and PostgreSQL</li>
+  <li>REST API design, authentication, and third-party integrations</li>
+  <li>WebSocket and Socket.IO real-time features</li>
+  <li>AI-assisted SaaS workflows and conversational interfaces</li>
 </ul>
 
 ###
 
-<h2 align="left">💼 Professional Experience</h2>
+<h2 align="left">⚙️ Portfolio Development</h2>
 
-<h3 align="left">🚀 CTO & Co-Founder at Codyn.in</h3>
-<ul>
-  <li>Leading technical strategy and development of innovative tech solutions</li>
-  <li>Architecting scalable full-stack applications for enterprise clients</li>
-  <li>Building and managing high-performing development teams</li>
-  <li>Driving product innovation and technology adoption</li>
-  <li>Overseeing technical infrastructure and DevOps practices</li>
-</ul>
 
-<h3 align="left">💻 Technical Expertise & Projects</h3>
-<ul>
-  <li>Building scalable <strong>full-stack applications</strong> with React, Next.js, Node.js, and MongoDB</li>
-  <li>Creating <strong>AI-powered solutions</strong> for e-commerce and smart systems</li>
-  <li>Developing <strong>real-time applications</strong> with WebSocket and Socket.io</li>
-  <li>Implementing responsive and modern UI/UX designs with Tailwind CSS and Next.js</li>
-  <li>Architecting <strong>RESTful APIs</strong> and database optimizations for high-performance applications</li>
-  <li>Leading technical architecture decisions and system design</li>
-  <li>Implementing CI/CD pipelines and cloud deployment strategies</li>
-</ul>
+
+
+
